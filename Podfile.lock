@@ -1,0 +1,24 @@
+PODS:
+  - HYBHelperKit (0.2.0):
+    - Masonry (~> 1.0.1)
+  - LEEAlert (1.1.1)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - QMUIKit (1.7.6)
+
+DEPENDENCIES:
+  - HYBHelperKit
+  - LEEAlert
+  - MJExtension
+  - QMUIKit
+
+SPEC CHECKSUMS:
+  HYBHelperKit: 504b3ef89778c1d7f4bd8faf0abfeed96cd2e5f9
+  LEEAlert: aa0fbb71b0fdfe5310d8e2edf3e24064d300d687
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  QMUIKit: f3eac3811073962da4dbcf6173aeef8f34e91c1c
+
+PODFILE CHECKSUM: 4f9b761ec8f5d56fc933db52f23404e21fe6e5f0
+
+COCOAPODS: 1.2.0
